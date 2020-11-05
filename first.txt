@@ -6,6 +6,9 @@ INFORMATION
 DETAILS
 animation
 
+communication
+writing
+
 
 
   thank you
